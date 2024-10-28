@@ -1,7 +1,7 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
-import AddJob from './components/AddJob'; // Adjust the path as needed
-import Home from './components/Home'; // Your home component
+import AddJob from './components/AddJob'; 
+import Home from './components/Home'; 
 
 function App() {
   return (
